@@ -72,4 +72,4 @@ cd ~/ros2_ws
 colcon build --packages-select co_cooking_robot
 source install/setup.bash
 # 시스템 설명
-ros2 launch co_cooking_robot cooking_main.launch.py
+
